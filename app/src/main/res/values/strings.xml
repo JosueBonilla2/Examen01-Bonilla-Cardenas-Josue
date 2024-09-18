@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen01</string>
+
+    <string name="lorem_ipsum">
+        Los préstamos que ofrecemos en nuestra institución bancaria se dividen en tres categorías principales: personal, negocio y vivienda.
+        1. Préstamo Personal: Ideal para aquellas personas que necesitan un préstamo para cubrir gastos personales o realizar proyectos de pequeña escala. Los montos van de 20 mil a 40 mil pesos, con tasas competitivas y plazos accesibles.
+
+        2. Préstamo para Negocios: Este préstamo está diseñado para emprendedores y empresas que buscan capital para invertir en el crecimiento de sus negocios. Los montos disponibles son de 40 mil a 60 mil pesos, con condiciones flexibles y soporte especializado.
+
+        3. Préstamo de Vivienda: Si estás buscando adquirir una propiedad o realizar mejoras en tu hogar, el préstamo de vivienda es la opción perfecta. Ofrecemos montos que van de 15 mil a 35 mil pesos, con tasas fijas y plazos a largo plazo para facilitar el pago.
+        ffdsf
+        Todos nuestros préstamos están sujetos a una evaluación de ingresos y capacidad de pago. Para más información, comuníquese con uno de nuestros asesores.
+    </string>
+
+</resources>
